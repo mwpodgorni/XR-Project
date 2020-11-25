@@ -1,0 +1,174 @@
+﻿{
+  "questions": [
+    {
+      "question": "Which French leader was defeated at the Battle of Waterloo?",
+      "answers": [
+        {
+          "answer": "Napoleon I",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Louis IX",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Napoleon Bonaparte",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is not a European language family?",
+      "answers": [
+        {
+          "answer": "Celtic",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Indo-European",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "Germanic",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of Franz Ferdinand’s assassin?",
+      "answers": [
+        {
+          "answer": "Gavrilo Princip",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "Edgar Allan Poe",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Lee Harvey Oswald",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "Who was known as the Iron Chancellor?",
+      "answers": [
+        {
+          "answer": "Wilhelm II",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Winston Churchill",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Otto von Bismarck",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "question": "Through what country did Lady Godiva ride?",
+      "answers": [
+        {
+          "answer": "England",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "Holland",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "France",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "When did Switzerland officially gain its independence?",
+      "answers": [
+        {
+          "answer": "1708",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "1648",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "1688",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "Which of these peoples once ruled Norway?",
+      "answers": [
+        {
+          "answer": "Vikings",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "Irish",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "Aztecs",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "What was the original name of Constantinople?",
+      "answers": [
+        {
+          "answer": "Byzantium",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "Istanbul",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Athens",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "What country was Vasco da Gama from?",
+      "answers": [
+        {
+          "answer": "Spain",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Italy",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Portugal",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "question": "The Viking who discovered Greenland was named:",
+      "answers": [
+        {
+          "answer": "Sven the Bold",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Erik the Red",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "Dane Cook",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]
+}

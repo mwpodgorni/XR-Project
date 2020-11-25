@@ -1,0 +1,174 @@
+﻿{
+  "questions": [
+    {
+      "question": "2-2x2+2",
+      "answers": [
+        {
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "0",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "-2",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "6/2x(1+2)",
+      "answers": [
+        {
+          "answer": "2",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "1",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "question": "12x12",
+      "answers": [
+        {
+          "answer": "124",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "154",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "144",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "question": "Pi number is equal to",
+      "answers": [
+        {
+          "answer": "~2.25",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "~3.14",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "~5.14",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "Circle diameter measures",
+      "answers": [
+        {
+          "answer": "twice the radius",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "half radius",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "one radius",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "3x3x3",
+      "answers": [
+        {
+          "answer": "27",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "21",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "39",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "9-3x3+3",
+      "answers": [
+        {
+          "answer": "9",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "3",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "-3",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "8.56+7.25",
+      "answers": [
+        {
+          "answer": "15.71",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "15.81",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "15.91",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "2+3+3x2-3",
+      "answers": [
+        {
+          "answer": "4",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "6",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "8",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "question": "First Fibonacci sequence numbers are",
+      "answers": [
+        {
+          "answer": "1, 1, 2, 3",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "2, 4, 6, 8",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "1, 3, 5, 7",
+          "isCorrect": "false"
+        }
+      ]
+    }
+  ]
+}

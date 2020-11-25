@@ -1,0 +1,174 @@
+﻿{
+  "questions": [
+    {
+      "question": "Which of these mountain ranges is not in Europe?",
+      "answers": [
+        {
+          "answer": "Atlas Mountains",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "The Alps",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "The Pyrenees",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "To generate energy from tides, the tidal range must be above?",
+      "answers": [
+        {
+          "answer": "10m",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "7.5m",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "5m",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Iceland?",
+      "answers": [
+        {
+          "answer": "Oslo",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Reykjavik",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "Selfoss",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "The great Victoria Desert is located in",
+      "answers": [
+        {
+          "answer": "Canada",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "West Africa",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Australia",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "question": "The intersecting lines drawn on maps and globes are",
+      "answers": [
+        {
+          "answer": "latitudes",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "geographic grids",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "longitudes",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "The landmass of which of the following continents is the least?",
+      "answers": [
+        {
+          "answer": "Australia",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "Asia",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Europe",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "The largest gold producing country in the world(in 2006) is",
+      "answers": [
+        {
+          "answer": "China",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "South Africa",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "USA",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "The length of the day is determined in",
+      "answers": [
+        {
+          "answer": "astronomical units",
+          "isCorrect": "true"
+        },
+        {
+          "answer": "solar terms",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "length of the hours",
+          "isCorrect": "false"
+        }
+      ]
+    },
+    {
+      "question": "The highest sand dunes are found in",
+      "answers": [
+        {
+          "answer": "the Atacama desert",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "the Kalahari desert",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "the Sahara desert",
+          "isCorrect": "true"
+        }
+      ]
+    },
+    {
+      "question": "The largest part of our hydrosphere is",
+      "answers": [
+        {
+          "answer": "Atlantic Ocean",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Indian Ocean",
+          "isCorrect": "false"
+        },
+        {
+          "answer": "Pacific ocean",
+          "isCorrect": "true"
+        }
+      ]
+    }
+  ]
+}
